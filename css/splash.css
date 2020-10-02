@@ -298,4 +298,7 @@ body, html {
   padding:3px 0px;
   margin:23px auto;
 }
-
+.
+download-button:hover {
+background: -webkit-gradient(linear, left bottom, left top, from(#faa51a), to(#f47a20));
+}
